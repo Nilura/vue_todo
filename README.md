@@ -1,3 +1,3 @@
 # vue_todo
 https://todoashen.herokuapp.com/
-<img src="img/img.jpeg">
+<img src="img/img1.jpeg">
